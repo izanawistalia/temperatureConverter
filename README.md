@@ -5,3 +5,4 @@ its homepage:
 https://github.com/izanawistalia/temperatureConverter/blob/master/homepage.png
 
 when input is provided:
+https://github.com/izanawistalia/temperatureConverter/blob/master/input.png
